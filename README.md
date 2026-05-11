@@ -1,4 +1,4 @@
-# Monitoramento de Desmatamento em Minas Gerais
+# Monitoramento de desmatamento em Minas Gerais
 
 Este projeto foi desenvolvido como um teste técnico de Ciência de Dados focado na análise geoespacial e socioeconômica para o combate ao desmatamento ilegal no estado de Minas Gerais. O objetivo principal é fornecer insights estratégicos para que gestores públicos possam alocar recursos de fiscalização de forma eficiente.
 
